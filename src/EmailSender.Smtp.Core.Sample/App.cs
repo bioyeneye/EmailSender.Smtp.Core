@@ -12,7 +12,8 @@ namespace EmailSender.Smtp.Core.Sample
 
         public async Task RunApp()
         {
-
+            var name = "@thecoderefiner";
+            await _emailSender.SendEmailAsync("bioyeneye@gmail.com", $"Test Smtp", $"<p>Hello {name}</p>");
         }
     }
 }
