@@ -7,6 +7,9 @@
 src/EmailSender.Smtp.Core/bin/
 src/EmailSender.Smtp.Core/obj/
 
+src/EmailSender.Smtp.Core/.idea/*
+
+
 # Common node modules locations
 /node_modules
 /wwwroot/node_modules
