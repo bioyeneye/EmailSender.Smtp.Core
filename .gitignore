@@ -7,14 +7,15 @@
 src/.idea/
 src/EmailSender.Smtp.Core/bin/
 src/EmailSender.Smtp.Core/obj/
-src/EmailSender.Smtp.Core.Console/bin/*
-src/EmailSender.Smtp.Core.Console/obj/*
+src/EmailSender.Smtp.Core.Sample/bin/*
+src/EmailSender.Smtp.Core.Sample/obj/*
 
 src/EmailSender.Smtp.Core/.idea/*
 src/EmailSender.Smtp.Core/appsettings.json
+src/EmailSender.Smtp.Core.Sample/appsettings.json
 
-src/EmailSender.Smtp.Core.Console/.idea/*
-src/EmailSender.Smtp.Core.Console/appsettings.json
+src/EmailSender.Smtp.Core.Sample/.idea/*
+src/EmailSender.Smtp.Core.Sample/appsettings.json
 
 
 
