@@ -11,6 +11,7 @@
     <ItemGroup>
       <None Remove="appsettings.json" />
       <Resource Include="appsettings-sample.json" />
+      <Resource Include="appsettings.json" />
     </ItemGroup>
 
 </Project>
