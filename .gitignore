@@ -4,11 +4,18 @@
 
 ### DotnetCore ###
 # .NET Core build folders
+src/.idea/
 src/EmailSender.Smtp.Core/bin/
 src/EmailSender.Smtp.Core/obj/
+src/EmailSender.Smtp.Core.Console/bin/*
+src/EmailSender.Smtp.Core.Console/obj/*
 
 src/EmailSender.Smtp.Core/.idea/*
-src/EmailSender.Smtp.Core/EmailSender.Smtp.Core/appsettings.json
+src/EmailSender.Smtp.Core/appsettings.json
+
+src/EmailSender.Smtp.Core.Console/.idea/*
+src/EmailSender.Smtp.Core.Console/appsettings.json
+
 
 
 # Common node modules locations
