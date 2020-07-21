@@ -8,6 +8,7 @@ src/EmailSender.Smtp.Core/bin/
 src/EmailSender.Smtp.Core/obj/
 
 src/EmailSender.Smtp.Core/.idea/*
+src/EmailSender.Smtp.Core/EmailSender.Smtp.Core/appsettings.json
 
 
 # Common node modules locations
